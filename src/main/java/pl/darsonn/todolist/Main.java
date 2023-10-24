@@ -1,5 +1,6 @@
 package pl.darsonn.todolist;
 
+import pl.darsonn.todolist.settings.SettingsHandler;
 import pl.darsonn.todolist.todo.TodoListHandler;
 
 import java.util.InputMismatchException;
